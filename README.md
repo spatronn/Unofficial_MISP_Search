@@ -12,4 +12,5 @@ You can search with "!search IOC".
 ![image](https://github.com/spatronn/Unofficial_MISP_Search/assets/27374567/5a1e7a5d-d24e-4648-88f6-0bc8c947dc57)
 
 List Feeds = feed_index.json
+
 Update Frequency = 1 hour (misp-fetchfeed.py)
