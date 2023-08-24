@@ -11,6 +11,9 @@ Or you can create your own bot.
 You can search with "!search IOC".
 ![image](https://github.com/spatronn/Unofficial_MISP_Search/assets/27374567/5a1e7a5d-d24e-4648-88f6-0bc8c947dc57)
 
-List Feeds = feed_index.json
+-->List Feeds = feed_index.json
 
-Update Frequency = 1 hour (misp-fetchfeed.py)
+-->Update Frequency = 1 hour (misp-fetchfeed.py)
+
+-->Currently installed version… v2.4.175 (8015ab121a2c49ffe61b540c3cf8c49bcb9ed845)
+
